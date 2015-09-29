@@ -1,2 +1,1 @@
-hello
-more changes
+this is a test for freecodecamps git waypoint
